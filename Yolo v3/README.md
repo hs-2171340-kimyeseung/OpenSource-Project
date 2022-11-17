@@ -35,7 +35,7 @@ Yolo는 버전이 업그레이드 되면서 성능 또한 향상되어 왔다. �
 # Yolo 라이선스
 
 <img width="1000" height="350" src="yolo_license.png"/>
-<br>
+<br><br>
 
 
 darknet 기반이였던 yolo v1~v3 까지는 상업적 사용이 가능한 public 라이선스였던 반면,
